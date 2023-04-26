@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <style>
+    body {
+      background-color: rgba(0, 0, 0, 0);
+      font-family: 'Press Start 2P', cursive;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .mario-text {
+      font-size: 32px;
+      color: #FFF;
+      text-transform: uppercase;
+      text-shadow: 2px 2px 0px #FF8B3D, 4px 4px 0px #FF641A;
+      letter-spacing: 2px;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="mario-text">General Knowledge</h1>
+</body>
+</html>
